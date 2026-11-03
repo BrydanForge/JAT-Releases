@@ -1,6 +1,3 @@
-# JAT-Releases
-Jagged Amber Tactics Releases
-
 # Jagged Amber Tactics
 
 **A classic fantasy RPG meets tactical turn-based combat.**
