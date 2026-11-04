@@ -24,6 +24,8 @@ Die folgenden Orte sind bereits spielbar:
 
 - Mühlbrück, Dreifurt, Tannried – drei der Städte der Westmark sind schon begehbar und mit Leben und Abenteuer gefüllt
 - Orkhöhle, Alter Seewachturm und Altes Zollhaus – zusätzliche Gebiete zum Erkunden und Kämpfen
+- 6 zusätzliche rekrutierbare Charaktere
+- 6 Grundklassen sowie 6 Meisterklassen und 15 Hybridklassen ab Level 10 (XP bis Level 10 aktuell nur über die Entwicklerkonsole erreichbar)
 
 **Ein kleiner Geheimtipp: Die Herzsenke**
 
