@@ -22,16 +22,19 @@ Fehler, unfertige Inhalte und gelegentliche Unstimmigkeiten sind daher zu erwart
 
 Die folgenden Orte sind bereits spielbar:
 
-- Mühlbrück, Dreifurt, Tannried – drei der Städte der Westmark sind schon begehbar und mit Leben und Abenteuer gefüllt
-- Orkhöhle, Alter Seewachturm und Altes Zollhaus – zusätzliche Gebiete zum Erkunden und Kämpfen
-- 6 zusätzliche rekrutierbare Charaktere
-- 6 Grundklassen sowie 6 Meisterklassen und 15 Hybridklassen ab Level 10 (XP bis Level 10 aktuell nur über die Entwicklerkonsole erreichbar)
+- Mühlbrück, Dreifurt und Tannried: die drei Orte des Startgebiets der Westmark, begehbar und mit Leben und Abenteuern gefüllt
+- Wasserstollen, Sägewerk, Holzbruch, Altes Zollhaus, Alter Seewachturm, Orkhöhle und die vierte Furt: zusätzliche Gebiete zum Erkunden und Kämpfen
+- Mehr als ein Dutzend Aufgaben, darunter die Aufträge von Hauptmann Berthold in Dreifurt
+- 8 zusätzliche rekrutierbare Charaktere aus 7 Völkern
+- 6 Grundklassen sowie 6 Meisterklassen und 15 Komboklassen ab Level 10 (die dafür nötigen EP gibt es aktuell nur über Entwicklermenü oder Konsole)
 
 **Ein kleiner Geheimtipp: Die Herzsenke**
 
-Wer sich einen ersten Eindruck vom Spiel verschafft und die bisherigen Gebiete erkundet hat, sollte unbedingt auch einen Abstecher zur **Herzsenke** machen.
+Wer sich einen ersten Eindruck vom Spiel verschafft und die bisherigen Gebiete erkundet hat, sollte zum Schluss unbedingt noch die Herzsenke besuchen. Am schnellsten kommt ihr über das Entwicklermenü dorthin (Esc → Entwickler).
 
 Dort wartet eine kleine Überraschung, die einen Vorgeschmack auf etwas gibt, das im zweiten Teil des Spiels eine wichtige Rolle spielen wird.
+
+Wichtig: Von dort gibt es kein Zurück. Speichert vorher auf einem eigenen Speicherplatz, wenn ihr danach weiterspielen wollt.
 
 Mehr möchte ich dazu nicht verraten. 😉
 
