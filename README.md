@@ -2,6 +2,10 @@
 
 **A classic fantasy RPG meets tactical turn-based combat.**
 
+> **Now available in English!** Since version 0.4.0 the whole game can be played in English. It starts in German, so switch once under **Optionen → Sprache** (Options → Language). This page is in German, the download includes an English README.txt. **[Download the latest version](https://github.com/BrydanForge/JAT-Releases/releases/latest)**
+>
+> **Jetzt auch auf Englisch:** Seit Version 0.4.0 lässt sich das ganze Spiel auf Englisch spielen, die Sprache stellt ihr unter **Optionen → Sprache** um.
+
 Jagged Amber Tactics ist ein unabhängiges, nichtkommerzielles RPG-Projekt, inspiriert von drei Spielen, die mich über viele Jahre besonders geprägt haben: **Amberstar, Jagged Alliance und Final Fantasy Tactics**.
 
 Mein Ziel ist es, den Entdeckergeist und die Atmosphäre klassischer Rollenspiele mit taktischen Gruppenkämpfen, Charakterentwicklung und einer eigenständigen Geschichte zu verbinden.
@@ -64,6 +68,8 @@ Die jeweils verfügbaren Testversionen findet ihr hier:
 3. `JaggedAmberTactics.exe` starten.
 
 Eine Installation ist nicht erforderlich.
+
+Das Spiel startet auf Deutsch. Unter **Optionen → Sprache** könnt ihr es auf Englisch umstellen.
 
 **Windows-Hinweis:** Da die ausführbare Datei derzeit nicht digital signiert ist, kann Windows SmartScreen beim ersten Start eine Warnung anzeigen. Bitte startet die Anwendung nur, wenn ihr der Downloadquelle vertraut.
 
