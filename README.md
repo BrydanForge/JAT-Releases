@@ -2,7 +2,11 @@
 
 **A classic fantasy RPG meets tactical turn-based combat.**
 
-> **Now available in English!** Since version 0.4.0 the whole game can be played in English. It starts in German, so switch once under **Optionen → Sprache** (Options → Language). This page is in German, the download includes an English README.txt. **[Download the latest version](https://github.com/BrydanForge/JAT-Releases/releases/latest)**
+> **Neu: der Launcher.** Einmal **[JAT-Launcher.exe herunterladen](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)**, in einen eigenen Ordner legen und starten. Er lädt die neueste Version und hält das Spiel von selbst aktuell. Details unter [Download und Installation](#-download-und-installation).
+>
+> **New: the launcher.** Download **[JAT-Launcher.exe](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)** once, put it into a folder of its own and start it. It downloads the latest version and keeps the game up to date by itself.
+>
+> **Now available in English!** Since version 0.4.0 the whole game can be played in English. It starts in German, so switch once under **Optionen → Sprache** (Options → Language). This page is in German, the download includes an English README.txt.
 >
 > **Jetzt auch auf Englisch:** Seit Version 0.4.0 lässt sich das ganze Spiel auf Englisch spielen, die Sprache stellt ihr unter **Optionen → Sprache** um.
 
@@ -59,7 +63,17 @@ Auch die Debug-Konsole ist verfügbar. Die beiliegende README enthält weitere I
 
 ## 📥 Download und Installation
 
-Die jeweils verfügbaren Testversionen findet ihr hier:
+### Am einfachsten: der Launcher
+
+1. **[JAT-Launcher.exe herunterladen](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)** und in einen eigenen, leeren Ordner legen, etwa `Dokumente\Jagged Amber Tactics`.
+2. Starten. Der Launcher lädt die neueste Version (rund 160 MB) und startet das Spiel.
+3. Ab dann immer den Launcher starten: Gibt es eine neue Version, lädt er sie vorher, sonst startet das Spiel nach drei Sekunden.
+
+Eure Spielstände bleiben bei jedem Update erhalten. Ohne Internet startet die zuletzt geladene Version, und die vorige Version lässt sich im Launcher weiter starten, falls mit einer neuen etwas nicht stimmt. Nötig ist nur Windows 10 oder 11.
+
+### Ohne Launcher
+
+Alle Testversionen findet ihr hier:
 
 **[Jagged Amber Tactics – Releases](https://github.com/BrydanForge/JAT-Releases/releases)**
 
@@ -71,7 +85,7 @@ Eine Installation ist nicht erforderlich.
 
 Das Spiel startet auf Deutsch. Unter **Optionen → Sprache** könnt ihr es auf Englisch umstellen.
 
-**Windows-Hinweis:** Da die ausführbare Datei derzeit nicht digital signiert ist, kann Windows SmartScreen beim ersten Start eine Warnung anzeigen. Bitte startet die Anwendung nur, wenn ihr der Downloadquelle vertraut.
+**Windows-Hinweis:** Da Launcher und Spiel derzeit nicht digital signiert sind, kann Windows SmartScreen beim ersten Start eine Warnung anzeigen. Bitte startet die Anwendung nur, wenn ihr der Downloadquelle vertraut.
 
 Eine ausführliche Anleitung mit Steuerung, Tastenkombinationen, Entwicklerfunktionen und Informationen zur Fehlermeldung liegt dem Download bei.
 
