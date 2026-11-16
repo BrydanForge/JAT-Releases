@@ -2,9 +2,9 @@
 
 **A classic fantasy RPG meets tactical turn-based combat.**
 
-> **Neu: der Launcher.** Einmal **[JAT-Launcher.exe herunterladen](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)**, in einen eigenen Ordner legen und starten. Er lädt die neueste Version und hält das Spiel von selbst aktuell. Details unter [Download und Installation](#-download-und-installation).
+> **Am einfachsten mit dem Launcher.** Einmal **[JAT-Launcher.exe herunterladen](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)**, in einen eigenen Ordner legen und starten. Er lädt die neueste Version und hält das Spiel von selbst aktuell. Details unter [Download und Installation](#-download-und-installation).
 >
-> **New: the launcher.** Download **[JAT-Launcher.exe](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)** once, put it into a folder of its own and start it. It downloads the latest version and keeps the game up to date by itself.
+> **Easiest with the launcher.** Download **[JAT-Launcher.exe](https://github.com/BrydanForge/JAT-Releases/releases/download/launcher-v1/JAT-Launcher.exe)** once, put it into a folder of its own and start it. It downloads the latest version and keeps the game up to date by itself.
 >
 > **Now available in English!** Since version 0.4.0 the whole game can be played in English. It starts in German, so switch once under **Optionen → Sprache** (Options → Language). This page is in German, the download includes an English README.txt.
 >
@@ -18,33 +18,23 @@ Dabei orientiere ich mich bewusst an den Stärken dieser Vorbilder, möchte aber
 
 ## 🎮 Aktueller Entwicklungsstand
 
-**Frühe Alpha – First Playable Version**
+**Alpha – der erste Akt ist spielbar**
 
 Jagged Amber Tactics befindet sich mitten in der Entwicklung. Die verfügbaren Versionen sind keine fertigen Spiele, sondern spielbare Zwischenstände.
 
-Bereits implementierte Spielmechaniken und Gebiete können ausprobiert werden. Viele weitere Inhalte sind noch in Planung oder Entwicklung.
+Seit Version 0.6.0 ist der erste Akt inhaltlich vollständig: Die Hauptgeschichte führt von Mühlbrück bis an sein Ende. Die Kämpfe sind aber noch nicht fein abgestimmt, das folgt als Nächstes.
 
 Fehler, unfertige Inhalte und gelegentliche Unstimmigkeiten sind daher zu erwarten.
 
 ### 🗺️ Was kann bereits erkundet werden?
 
-Die folgenden Orte sind bereits spielbar:
-
-- Mühlbrück, Dreifurt und Tannried: die drei Orte des Startgebiets der Westmark, begehbar und mit Leben und Abenteuern gefüllt
-- Wasserstollen, Sägewerk, Holzbruch, Altes Zollhaus, Alter Seewachturm, Orkhöhle und die vierte Furt: zusätzliche Gebiete zum Erkunden und Kämpfen
-- Mehr als ein Dutzend Aufgaben, darunter die Aufträge von Hauptmann Berthold in Dreifurt
-- 8 zusätzliche rekrutierbare Charaktere aus 7 Völkern
-- 6 Grundklassen sowie 6 Meisterklassen und 15 Komboklassen ab Level 10 (die dafür nötigen EP gibt es aktuell nur über Entwicklermenü oder Konsole)
-
-**Ein kleiner Geheimtipp: Die Herzsenke**
-
-Wer sich einen ersten Eindruck vom Spiel verschafft und die bisherigen Gebiete erkundet hat, sollte zum Schluss unbedingt noch die Herzsenke besuchen. Am schnellsten kommt ihr über das Entwicklermenü dorthin (Esc → Entwickler).
-
-Dort wartet eine kleine Überraschung, die einen Vorgeschmack auf etwas gibt, das im zweiten Teil des Spiels eine wichtige Rolle spielen wird.
-
-Wichtig: Von dort gibt es kein Zurück. Speichert vorher auf einem eigenen Speicherplatz, wenn ihr danach weiterspielen wollt.
-
-Mehr möchte ich dazu nicht verraten. 😉
+- Mühlbrück, Dreifurt und Tannried: die drei Orte des Startgebiets der Westmark, mit Leben und Abenteuern gefüllt
+- Die Bergbaustadt Karrfels und der Graufelspfad, die Hafenstadt Brackhafen mit der Glockenwacht, die Hospizstadt Lichtenruh und das Tal Glasgrund mit dem Gnomenweiler
+- Dungeons wie die Orkhöhle, die kalte Esse, das Moorarchiv, die Gruft unter der Kapelle, Tibbes Gänge und die Herzsenke, dazu viele kleinere Gebiete zum Erkunden und Kämpfen
+- Belebte Wege zwischen den Orten mit Lagern, Begegnungen und frei umherziehenden Gegnern
+- Rund 50 Aufgaben, von kleinen Begebenheiten bis zur Hauptgeschichte
+- 12 rekrutierbare Gefährten aus 8 Völkern
+- 6 Grundklassen sowie 6 Meisterklassen und 15 Komboklassen ab Stufe 10
 
 ### 🛠️ Entwicklerwerkzeuge
 
@@ -56,6 +46,7 @@ Da es sich um eine frühe Testversion handelt, sind die Entwicklerfunktionen bew
 - Die Weltkarte aufdecken
 - Eure Gruppe heilen
 - Gold und Erfahrungspunkte vergeben
+- Gefährten aufnehmen und entfernen
 
 Falls ihr bestimmte Orte nicht findet oder einfach verschiedene Inhalte ausprobieren möchtet, nutzt gerne die Teleportfunktion.
 
