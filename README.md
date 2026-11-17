@@ -9,6 +9,8 @@
 > **Now available in English!** Since version 0.4.0 the whole game can be played in English. It starts in German, so switch once under **Optionen → Sprache** (Options → Language). This page is in German, the download includes an English README.txt.
 >
 > **Jetzt auch auf Englisch:** Seit Version 0.4.0 lässt sich das ganze Spiel auf Englisch spielen, die Sprache stellt ihr unter **Optionen → Sprache** um.
+>
+> **Komplettlösung zu Akt I:** Wer festhängt oder alles sehen möchte, findet den ganzen ersten Akt in der **[Komplettlösung](Komplettloesung-Akt1.md)** (Deutsch, mit vollständigen Spoilern, die Übersicht oben ist spoilerarm). *Full walkthrough of Act I, German only for now.*
 
 Jagged Amber Tactics ist ein unabhängiges, nichtkommerzielles RPG-Projekt, inspiriert von drei Spielen, die mich über viele Jahre besonders geprägt haben: **Amberstar, Jagged Alliance und Final Fantasy Tactics**.
 
@@ -22,7 +24,7 @@ Dabei orientiere ich mich bewusst an den Stärken dieser Vorbilder, möchte aber
 
 Jagged Amber Tactics befindet sich mitten in der Entwicklung. Die verfügbaren Versionen sind keine fertigen Spiele, sondern spielbare Zwischenstände.
 
-Seit Version 0.6.0 ist der erste Akt inhaltlich vollständig: Die Hauptgeschichte führt von Mühlbrück bis an sein Ende. Die Kämpfe sind aber noch nicht fein abgestimmt, das folgt als Nächstes.
+Seit Version 0.6.0 ist der erste Akt inhaltlich vollständig: Die Hauptgeschichte führt von Mühlbrück bis an sein Ende. Version 0.6.1 bringt die durchgehende Hauptgeschichte „Das Flimmern“, Ausrüstung nach Rängen, Freunde und Rivalen in der Gruppe und eine erste Balance-Runde. Die Feinabstimmung der Kämpfe geht weiter.
 
 Fehler, unfertige Inhalte und gelegentliche Unstimmigkeiten sind daher zu erwarten.
 
