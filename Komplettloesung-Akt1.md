@@ -2,7 +2,7 @@
 
 > **Westmark: vom Konvoi bis zur Herzkammer.** Ein Leitfaden für einen gründlichen Durchlauf, in dem man alles einmal gesehen hat: jede Quest, jeden Gefährten, jeden Nebenschauplatz und die versteckten Funde.
 >
-> **Stand:** 17.11.2026, gilt für v0.6.1-alpha (Hauptgeschichte „Das Flimmern“, Freunde und Rivalen).
+> **Stand:** 20.11.2026, gilt für v0.7.0-alpha (ausgebaute Herzsenke, Zauber ohne Wirkzeit, stärkere Höhepunkte). Wie es nach der Krankenstation weitergeht, steht in der [Komplettlösung Akt II](Komplettloesung-Akt2.md).
 > **⚠️ Vollständige Spoiler.** Wer Akt I unbelastet erleben will, liest nur die Übersicht und die Routentabelle.
 
 ---
@@ -67,8 +67,9 @@ Jeder Eintrag folgt dem gleichen Schema:
 
 - Die Tabelle gilt für Figuren mit Klasse. Brydan beginnt **klassenlos** und braucht bis dahin 20 % mehr EP je Stufe. Die erste Klasse lernt er in einer Gilde in Dreifurt, zum halben Preis.
 - **Quest-EP** bekommt **jedes** Gruppenmitglied voll. **Kampf-EP** werden auf die stehende Gruppe **geteilt**: Zu sechst steigt jeder langsamer.
-- Die Höchststufe ist 20.
+- Die Höchststufe ist 30 (seit M71). In Akt I spielt das keine Rolle: Eine Gruppe endet den Akt mit Stufe 15 bis 17, nur ein Held, der alles allein erledigt, kommt über 20 hinaus.
 - Gefährten treten mit einer festen Stufe bei, spätere Gefährten mit der Stufe ihres Ortes (siehe Gefährtentabelle).
+- **Lebenspunkte der Gegner:** Die LP-Angaben im Leitfaden sind Grundwerte. Im Spiel steigen LP, Waffen- und Zauberkraft mit dem Ausrüstungsrang des Gebiets (Rang 1 etwa +15 % LP, Rang 5 etwa +65 %). Einige Höhepunkte halten seit v0.7.0 deutlich mehr aus, etwa das Doppelte ihres Grundwerts: Nachhall in der Gruft, Dornwuchs, Archivwächter, Flimmervögel, Höhlenkrabben, Läufer der Furche, Wächter des Herzrings und der Fremde in der Herzkammer.
 
 ### Unruhe: die Welt reagiert auf die Relikte
 
@@ -105,7 +106,7 @@ Nach dem Überfall auf Rabans Konvoi landet Brydan in Mühlbrück. Die Goblins h
 - die **Abschrift** vom schwarzen Altar im **Moorarchiv** bei Brackhafen (Q06, das Haus mit Fächern),
 - die **Antwort** an der Quelle von **Lichtenruh** (Q10, die Quelle, die antwortet).
 
-Die Reihenfolge ist frei, und jeder Ort verweist auf die beiden anderen. An **jedem** der drei Relikte ertappt Brydan einen **Fremden**, der es zerstören will (Q15a, Q15b, Q15c, seit Ä45). Beim ersten Mal ist er ein Unbekannter, beim zweiten erkennt Brydan ihn wieder, beim dritten weiß er, dass es seine letzte Gelegenheit vor der Herzsenke ist. Das Wort **Herz** fällt ab dem ersten Relikt, erklärt wird es erst später. Nach dem zweiten Relikt zerschneidet der Fremde die Schutzleitung von Lichtenruh (F01). Mit allen drei Relikten führt Priorin Meret den **Versuch im Kleinen** durch (Q16): Am Knoten erlischt das Flimmern für einen Atemzug, Meret erklärt, dass alle Leitungen der Hüter im Herz in der Senke im Osten zusammenlaufen, und ihre Karte legt den verschütteten Abstieg dorthin frei. Meret lädt alle Gefährten an die Rast der drei Steine (O12). Dann folgt der Abstieg in die **Herzsenke**: äußerer Ring, gebrochene Galerie, inneres Tor, Herzkammer, Kampf gegen den Fremden. Danach geht es in die Übergangsprobe (Abschnitt C).
+Die Reihenfolge ist frei, und jeder Ort verweist auf die beiden anderen. An **jedem** der drei Relikte ertappt Brydan einen **Fremden**, der es zerstören will (Q15a, Q15b, Q15c, seit Ä45). Beim ersten Mal ist er ein Unbekannter, beim zweiten erkennt Brydan ihn wieder, beim dritten weiß er, dass es seine letzte Gelegenheit vor der Herzsenke ist. Das Wort **Herz** fällt ab dem ersten Relikt, erklärt wird es erst später. Nach dem zweiten Relikt zerschneidet der Fremde die Schutzleitung von Lichtenruh (F01). Mit allen drei Relikten führt Priorin Meret den **Versuch im Kleinen** durch (Q16): Am Knoten erlischt das Flimmern für einen Atemzug, Meret erklärt, dass alle Leitungen der Hüter im Herz in der Senke im Osten zusammenlaufen, und ihre Karte legt den verschütteten Abstieg dorthin frei. Meret lädt alle Gefährten an die Rast der drei Steine (O12). Dann folgt der Abstieg in die **Herzsenke**: äußerer Ring, die Herzanlage mit drei Flügeln und dem Torwächter, gebrochene Galerie, inneres Tor, Herzkammer, Kampf gegen den Fremden. Danach geht es in die Übergangsprobe (Abschnitt C).
 
 Die Aufgabe **„Das Flimmern“** im Journal führt durch den ganzen Hauptstrang und nennt immer das nächste Ziel, mit Notizen zu jeder Sichtung und zu jedem offenen und geborgenen Relikt.
 
@@ -129,7 +130,7 @@ Gründlicher Weg zu viert (Held und drei Gefährten), alles mitgenommen außer d
 | 6a | Lichtenruh | 12 bis 13 | Quelle, Gruft mit Venya, Pilgerweg, Garten, Briefe (zweite Hälfte) | **Antwort (Q10)** |
 | 6b | Glasgrund | 13 bis 14 | leuchtende Furche, Dornwacht, Steinbruch mit Z'zarek, Tibbes Gänge mit Sylis | – |
 | 7 | Wege zwischen den Orten | 14 bis 15 | Moosfels, Deich und Glockengarten, Hünenlager, Lehmhang, Brandhof, freie Begegnungen | – |
-| 8 | Finale | 15 bis 17 | zerschnittene Leitung, Versuch im Kleinen, Rast der drei Steine, Riss am Südweg, Herzsenke | **Versuch (Q16), Ring, Galerie, Herzkammer** |
+| 8 | Finale | 15 bis 17 | zerschnittene Leitung, Versuch im Kleinen, Rast der drei Steine, Riss am Südweg, Herzsenke | **Versuch (Q16), Ring, Herzanlage, Galerie, Herzkammer** |
 | | nach dem Fremden | 16 bis 17 | Übergangsprobe C | |
 
 **Faustregeln:**
@@ -150,7 +151,7 @@ Höchstens sechs in der aktiven Gruppe. Überzählige warten in jedem Gasthaus (
 | Korgar | Ork, Kämpfer | Mühlbrück, Gasthaus Zur Bachbrücke (4, 6) | nach der Auszahlung des Konvois | 3 | Orkisch, Gemeinsprache | – |
 | Tavion | Elf, Schütze (Begabung Schütze, Grau) | Mühlbrück (30, 4) | nach der Auszahlung des Konvois | 3 | Elfisch, Gemeinsprache | – |
 | Namar | Katzenvolk, Dieb (Begabung Schütze, Dieb) | Dreifurt, an der Hofmauer (30, 35) | keine | 3 | Katzenzunge, Gemeinsprache | – |
-| Odrik | Zwerg, Weißmagier | Orkhöhle im Granitmassiv nördlich von Dreifurt (Höhlenmaul Weltkarte 226, 98), im Käfig | Käfig öffnen (Schlüssel oder Knacken 50); bei voller Gruppe wartet er im Gasthaus; zieht sich im ersten Gasthaus um (Schuppenpanzer, Heilerstab) | 5 | Zwergisch, Gemeinsprache, Orkisch | – |
+| Odrik | Zwerg, Weißmagier | Orkhöhle im Granitmassiv nördlich von Dreifurt (Höhlenmaul Weltkarte 225, 98), im Käfig | Käfig öffnen (Schlüssel oder Knacken 50); bei voller Gruppe wartet er im Gasthaus; zieht sich im ersten Gasthaus um (Schuppengewand, Heilerkolben) | 5 | Zwergisch, Gemeinsprache, Orkisch | – |
 | Varka | Orkin, Graumagierin | Karrfels, Lager im Vorland vor dem Südtor (23, 47) | keine | 6 | Orkisch, Gemeinsprache | 30 |
 | Beric | Zwerg, Kämpfer | Karrfels, Werkterrasse vor dem Hallentor der Schmelzhalle (13, 14), Tag und Nacht | keine (auch vor Q08) | **7** | Zwergisch, Gemeinsprache | 30 |
 | Haldaar | Hüne, Weißmagier (Begabung Kämpfer, Weiß, Grau) | Weltkarte (352, 144), Felsblock am Handelsstein (Graufelspfad), ansprechbar von (353, 144) oder (352, 145) | keine; spricht nur Hünisch und Zwergisch, also Beric oder Odrik mitnehmen | **7** | Hünisch, Zwergisch | 30 |
@@ -613,7 +614,7 @@ Der Fluss läuft quer durch die Stadt (Ortskarte Zeilen 15–18), die Bohlenbrü
 - **Zum Testen:** Kein Text kündigt das G an. Gesas Begrüßung nach dem Abschluss anders. Bei vollem Gepäck: Schal erneut über **Socken** holen.
 
 ### Orkhöhle mit Odrik · 🟡 ENTDECKUNG · 🔵 GEFÄHRTE
-- **Auslöser:** Kein Auftrag und kein Journal. Hinweis von Berthold auf **Orks**: Rauch aus einer Felsnische im Granit, ein gutes Stück nördlich. Ort: Nische im Granitmassiv (Weltkarte 227–235, 88–103), die sich nach Norden öffnet. Höhlenmaul im westlichen Fels bei Weltkarte (226, 98), Benutzen von (227, 98). Erkennbar am Orkzeichen (229, 97, gehörnter Schädel, rote Lumpen) und einem Lagerfeuer (230, 100). Man muss das Massiv (etwa x 176–253, y 70–120) umgehen und von Norden in die Nische gehen (welcher Umweg am kürzesten ist: unklar).
+- **Auslöser:** Kein Auftrag und kein Journal. Hinweis von Berthold auf **Orks**: Rauch aus einer Felsnische im Granit, ein gutes Stück nördlich. Ort: Nische im Granitmassiv (Weltkarte 227–235, 88–103), die sich nach Norden öffnet. Höhlenmaul in einer kleinen Tasche am Westrand der Nische, an deren Nordseite bei Weltkarte (225, 98), Benutzen von (225, 99). Erkennbar am Orkzeichen (229, 97, gehörnter Schädel, rote Lumpen) und einem Lagerfeuer (230, 100). Man muss das Massiv (etwa x 176–253, y 70–120) umgehen und von Norden in die Nische gehen (welcher Umweg am kürzesten ist: unklar).
 - **Stufe:** Stufe 5–7, 4–6 Figuren. Balance-Test: 5 Figuren auf Stufe 6 (Brydan als Kämpfer, Korgar, Tavion, Beric, Haldaar): Wachhöhle, Teich, Spinnen, Murrk, Schlafhöhle meist sicher; Grashaks Halle 6/12 Siege, alter Troll 5/12. Gegner: Ork-Krieger (Stufe 4), Ork-Schütze (Stufe 4), Ork-Schamane (Stufe 5), Grashak (Stufe 7, 75 LP), Murrk (Stufe 3) mit Wolf (Stufe 2), Große Kellerspinnen (Stufe 3) und Kellerspinnen, Alter Höhlentroll (Stufe 9, 300 LP, Rüstung 5, Knochenkeule 3W6). Rasten in der Höhle weckt mit 30 % die Patrouille. In der Nähe auf dem Massiv stehen außerdem freie Höhlentrolle (Weltkarte 191, 110 und 178, 68).
 - **Lösungsweg:** Eingang im Osten (82, 27). Kreuzhöhle (40–51, 21–30) ist der einzige Knoten.
   1. **Wachhöhle** (61–81, 21–29): 2 Ork-Krieger am Feuer und ein Ork-Schütze auf dem Absatz (Höhe 5), ab 5 Kämpfern ein Krieger mehr.
@@ -624,7 +625,7 @@ Der Fluss läuft quer durch die Stadt (Ortskarte Zeilen 15–18), die Bohlenbrü
   6. **Häuptlingshalle** (5–19, 36–48): Grashak auf dem Podest, Ork-Schamane, 2 Ork-Krieger, Ork-Schütze (ab 5 Kämpfern ein Krieger mehr). Zweiter Zugang über den Schleichgang neben dem Podest. Kriegskasse auf dem Podest: Kriegsschlüssel von Grashak oder Knacken 65.
 - **Wahlen und Enden:** Reihenfolge der Äste frei. Murrk friedlich oder Kampf (flieht er, liegt der Schlüssel trotzdem da). Troll ist optional. Besiegte Gruppen kommen nicht wieder.
 - **Belohnung:** Kampf-EP bei 4 Köpfen je Kopf etwa: Wache 36, Teich 47, Spinnen 23, Patrouille 25, Schlafhöhle 53, Grashak 108, Troll 100. Murrk friedlich 15 EP. Beute: Grashaks Zweihandaxt (2W6+1, Stärke 35), Kriegsschlüssel, Heiltrank; Troll: Trollzahn am Lederriemen (Hals, Kondition +5, Stärke +2), 2 Heiltränke; Kriegskasse 150 Gold, 2 Heiltränke, Brandflasche; Branns Truhe 60 Gold, 2 Heiltränke; Odriks Habe 40 Gold. Gefährte Odrik.
-- **Odrik — GEFÄHRTE:** Zwerg, Weißmagier Stufe 5, Zwergisch, Gemeinsprache, Orkisch, kommt ohne Ausrüstung. Nach dem Beitritt bittet er, in ein Gasthaus mitgenommen zu werden: Betritt die Gruppe mit ihm ein Gasthaus (Zum Brückenbogen in Dreifurt, Zur Bachbrücke in Mühlbrück) oder holt sie ihn bei einem Gasthausdienst ab (Hanne, Hella, Runa, Weda), zieht er sich einmal um (»Ah, endlich wieder frische Kleidung ohne Ork-Gestank …«): neue Figur und neues Portrait, Schuppenpanzer (leicht, Rüstung 3) und Heilerstab (1W4+1, INT +2, Heilung +15 %) werden angelegt.
+- **Odrik — GEFÄHRTE:** Zwerg, Weißmagier Stufe 5, Zwergisch, Gemeinsprache, Orkisch, kommt ohne Ausrüstung. Nach dem Beitritt bittet er, in ein Gasthaus mitgenommen zu werden: Betritt die Gruppe mit ihm ein Gasthaus (Zum Brückenbogen in Dreifurt, Zur Bachbrücke in Mühlbrück) oder holt sie ihn bei einem Gasthausdienst ab (Hanne, Hella, Runa, Weda), zieht er sich einmal um (»Ah, endlich wieder frische Kleidung ohne Ork-Gestank …«): neue Figur und neues Portrait, Schuppenpanzer (leicht, Rüstung 3) und Heilerkolben (einhändig 1W6+2, Durchschlag 1, INT +1, Heilung +10 %, bis 19.11.2026 der Heilerstab) werden angelegt.
 - **Zum Testen:** Korgar kommentiert das Orkzeichen. Odrik kommentiert Brann, wenn er beim Fund dabei ist; erzählt man es ihm vorher, reagiert er bei der Befreiung. Überraschung in der Schlafhöhle mit/ohne Alarm. Befreiung bei voller Gruppe und Umziehen im Gasthaus. Offen laut Projektstand: Schlafhöhle geweckt leichter als gedacht. Odrik und Korgar sind Rivalen (Freunde und Rivalen): Bei der Befreiung erzählt eine kurze Szene davon. Hat man Murrk mit Korgar in der Gruppe gehen lassen, merkt Odrik sich das (+5).
 
 ### V01b Bertholds Meldungen von den Wegen (Dreifurt-Seite) · 🟢 OPTIONAL
@@ -1365,7 +1366,7 @@ Glockenwacht (Insel westlich der Stadt, Weltkarte ab (18, 68)) ist nur mit dem L
 
 ### E09 Was die Flut zurückgibt · 🟢 OPTIONAL
 - **Auslöser:** Am Westhang der Insel ist ein frischer **Fisch** in den Fels geritzt (Wand (3, 7), von (4, 7) aus). Ansehen lehrt **Fischzeichen**; Dasho am Lagerfeuer liest ihn auf **Fischzeichen** als Zeichen der Pfahlgasse und nennt **Kesh**. Die Aufgabe beginnt im Tagebuch erst bei Kesh selbst. Keine Voraussetzung außer der Überfahrt (Q13 nicht nötig).
-- **Stufe:** Stufe 9 mit vier Köpfen. Gegner: **Höhlenkrabben** (Stufe 9, 36 LP, Rückenschild: Rüstung von vorn +5), vier, ab fünf und sechs Figuren je eine mehr. Balance-Test: Held (Kämpfer), Korgar, Tavion, Namar Stufe 9: von vorn mindestens 7 von 12 Siegen verlangt, aus der Flanke nicht schwerer. Ein mittlerer Kampf von vorn, aus der Flanke leichter.
+- **Stufe:** Stufe 9 mit vier Köpfen. Gegner: **Höhlenkrabben** (Stufe 9, 36 LP, Rückenschild: Rüstung von vorn +5), vier, ab fünf und sechs Figuren je eine mehr. Seit v0.7.0 halten sie etwa doppelt so viel aus und beißen härter. Balance-Test: Held (Kämpfer), Korgar, Tavion, Namar Stufe 9: von vorn 5 von 8 Siegen, aus der Flanke nicht schwerer. Ein harter Kampf von vorn, aus der Flanke leichter.
 - **Lösungsweg:**
   1. Die Wand mit dem Fisch benutzen, **hinabsteigen** (fünf Minuten). Ankunft in der Höhle (21, 1), dunkel: **Fackel oder Licht mitnehmen**.
   2. Den Gang hinab; bei (18..19, 3) öffnet sich die Halle mit dem Becken.
@@ -1480,7 +1481,7 @@ Der Ort ist ohne Kampf zu betreten. Die erste Ankunft gibt 20 EP und je nach Tag
 - **Auslöser:** **Meret** (bei Tag im Klostergarten 33, 18) nach **Name** → **Lichtenruh** → **Quellbezirk** fragen, oder mit Orwins Wort direkt nach **Hüter** (lehrt **Quellbezirk** und **Antwort**). Quellbezirk lehrt **Antwort**. Erst auf **Antwort** gibt sie den **Schlüssel zur Quellpforte** und damit die Aufgabe. Nochmal gefragt, wartet sie auf den Bericht.
 - **Stufe:** Bezugsstufe der Balance-Test 9 (Held als Kämpfer mit Korgar, Tavion, Namar; zweite Fassung mit Varka). Gegner:
   - **Quellziegen** (optional): 3 × Stufe 9 (32 LP, je 100 EP), ab 5 und ab 6 Köpfen je eine mehr. Schnell, schwer zu treffen (zweiter Schatten), springen vor und zurück.
-  - **Dornwuchs** (Pflicht): **Dornwurzel** Stufe 11 (70 LP, Rüstung 2, spuckt Dornen auf 2–5 Felder, verlässt ihr Feld nie, 220 EP) und 3 **Dorntriebe** Stufe 9 (26 LP, Peitsche Reichweite 1–2, wachsen jeden Zug 6 LP nach, solange die Wurzel steht, 90 EP), ab 5 und ab 6 Köpfen je ein Trieb mehr. Beide Gruppen furchtlos.
+  - **Dornwuchs** (Pflicht): **Dornwurzel** Stufe 11 (70 LP, Rüstung 2, spuckt Dornen auf 2–5 Felder, verlässt ihr Feld nie, wirft **Dornenranken** auf ein Feld mit Nachbarn: Gift und zwei Züge festgewurzelt, 220 EP) und 3 **Dorntriebe** Stufe 9 (26 LP, Peitsche Reichweite 1–2, wachsen jeden Zug 6 LP nach, solange die Wurzel steht, 90 EP), ab 5 und ab 6 Köpfen je ein Trieb mehr. Beide Gruppen furchtlos.
   - Kampf-EP je Kopf bei vier: rund 197 (Ziegen und Dornen zusammen).
 - **Lösungsweg:**
   1. Mit dem Schlüssel zur **Quellpforte** (47, 4) ganz im Osten des Vorhofs (oben rechts in der Stadt). Benutzen öffnet die Kette, man steht im Quellbezirk (Karte 30 × 28, vier Terrassen, Norden bergauf), Ankunft im verwilderten Garten (1, 24).
@@ -1866,21 +1867,37 @@ Die erste Ankunft gibt 20 EP, das Wort **Glasgrund** und einen Text je nach Tage
 - **Zum Testen:** Annäherung von Norden, von Süden, über die Wiese.
 
 ### Q17a Der äußere Ring · 🔴 PFLICHT
-- **Auslöser:** Den Torbogen im Ruinenring betreten (Weltkarte (409, 221)). Vor Q16 ist der Abstieg verschüttet: Geröll auf der Stufe hinter dem Bogen, beim ersten Betreten ein Popup, danach eine Protokollzeile, Umschauen zeigt das Geröll. Nach Q16 legt Merets Karte beim ersten Betreten die Stufen frei (Popup), dann geht es ohne Rückfrage hinab. Ankunft im Süden des äußeren Rings (Ortskarte (9, 50)), der erste Schritt zeigt den Hof. Nötig ist Q16, kein einzelnes Relikt. Die Treppe zurück liegt bei (9, 51).
+- **Auslöser:** Den Torbogen im Ruinenring betreten (Weltkarte (409, 221)). Vor Q16 ist der Abstieg verschüttet: Geröll auf der Stufe hinter dem Bogen, beim ersten Betreten ein Popup, danach eine Protokollzeile, Umschauen zeigt das Geröll. Nach Q16 legt Merets Karte beim ersten Betreten die Stufen frei (Popup), dann geht es ohne Rückfrage hinab. Ankunft im Süden des äußeren Rings (Ortskarte (49, 90)), der erste Schritt zeigt den Hof. Nötig ist Q16, kein einzelnes Relikt. Die Treppe zurück liegt bei (49, 91).
 - **Stufe:** Empfohlen 14+. 4 Ringwächter (Stufe 12, 42 LP, vorn Steinpanzer +2 Rüstung), 2 Laufwächter (Stufe 13, 20 LP, werfen Steinsplitter, Reichweite 2–7, vom Umgang auf Höhe 2), ab 5/6 Köpfen je ein Ringwächter mehr. Alle sehen 8 Felder weiter (Steinsinn). Balance-Test: Stufe 14, zu viert mit Laufwächtern 5 von 12, ohne Laufwächter 10 von 12, allein 0.
 - **Lösungsweg:**
   1. Über den Umgang (Höhe 2) laufen, Statuen ansprechen (Beschreibung).
-  2. Auf dem östlichen Umgang (17, 40–42) einmalig: Mit der Karte der Leitungen (Q16) zeigt sich der Wartungsgang sofort. Sonst stille Probe Wahrnehmung 50. Sonst am Spalt (18, 41) benutzen: **Den Mauerfuß absuchen** (Wahrnehmung 50 mit Hilfe, 10 Minuten bei Fehlschlag). Fund: Wort **Wartungsgang**, 20 EP.
-  3. Durch den Gang in die Bedienkammer. Pult (23, 41) benutzen: mit der Fassung legt {held} die Laufwächter still (die Fassung bleibt), sonst **Die beiden Hebel in die Reihe legen** (Fingerfertigkeit 60 mit Hilfe, 10 Minuten bei Fehlschlag) oder **Lieber nichts anrühren**. Erfolg: 20 EP, Klang.
-  4. Truhe (24, 39): zwei Heiltränke.
-  5. Eine der Treppen in die Mitte hinab (Treppenfüße (5, 45) oder (13, 45)): die Wächter erwachen, Kampf (ohne Laufwächter, wenn stillgelegt).
-  6. Sieg: 80 EP, das Tor im Norden (9, 33) öffnet sich. Flucht: zurück an die Ankunft (9, 50), die Wächter stehen wieder still.
+  2. Auf dem östlichen Umgang (57, 80–82) einmalig: Mit der Karte der Leitungen (Q16) zeigt sich der Wartungsgang sofort. Sonst stille Probe Wahrnehmung 50. Sonst am Spalt (58, 81) benutzen: **Den Mauerfuß absuchen** (Wahrnehmung 50 mit Hilfe, 10 Minuten bei Fehlschlag). Fund: Wort **Wartungsgang**, 20 EP.
+  3. Durch den Gang in die Bedienkammer. Pult (63, 81) benutzen: mit der Fassung legt {held} die Laufwächter still (die Fassung bleibt), sonst **Die beiden Hebel in die Reihe legen** (Fingerfertigkeit 60 mit Hilfe, 10 Minuten bei Fehlschlag) oder **Lieber nichts anrühren**. Erfolg: 20 EP, Klang.
+  4. Truhe (64, 79): zwei Heiltränke. Seit HZ1 glimmen die Fugen der beiden Laufwächter, bis das Pult sie stilllegt, die Sichtscharte (60, 80) zeigt es, die Relieftafel (62, 78) den Grundriss der Anlage.
+  5. Eine der Treppen in die Mitte hinab (Treppenfüße (45, 85) oder (53, 85)): die Wächter erwachen, Kampf (ohne Laufwächter, wenn stillgelegt).
+  6. Sieg: 80 EP, das Tor im Norden (49, 73) öffnet sich zum Wachgang. Flucht: zurück an die Ankunft (49, 90), die Wächter stehen wieder still.
 - **Wahlen und Enden:** Mit oder ohne Bedienkammer. Gleiche EP, aber ohne Pult ist der Kampf deutlich schwerer (Laufwächter von oben). Der Ring bleibt nach dem Sieg ruhig.
 - **Belohnung:** 20 + 20 + 80 = 120 EP, zwei Heiltränke; Kampf-EP etwa 350 je Kopf zu viert.
 - **Zum Testen:** Den Hof von oben ansehen, Statuen, östlicher Umgang mit und ohne Karte, Pult mit und ohne Fassung, Kampf mit und ohne Laufwächter, Flucht. Die Angriffsbilder der Wächter tragen in zwei Richtungen noch kleine graue Schwungbögen. Bilder -- --herzring.
 
+### Q17c Die Herzanlage und die drei Zeichen am Tor · 🔴 PFLICHT
+- **Auslöser:** Durch das offene Ringtor (49, 73) nach Norden in den Wachgang. Die Anlage liegt zwischen Ring und Galerie (Ausbau HZ1 bis HZ5, [planung-herzsenke-ausbau.md](planung-herzsenke-ausbau.md)). Aufgabe »Drei Zeichen am Tor« ab dem ersten Blick auf das Zeichentor.
+- **Stufe:** Empfohlen 14+, Torwächter 15. Wachsaal: 2 Rissgluten, 1 Rissnachhall (zu viert 5 von 6). Hammerhalle: 3 Ringwächter, 2 Laufwächter oben auf dem Steg (zu viert 6 von 6). Archiv: Archivwächter, 2 Laufwächter (6 von 6). Quellgrund: 2 Rissnachhalle, 2 Rissgluten, 2 Wellen je eine Glut (5 von 6). Torwächter (Stufe 15, 260 LP, groß, Steinpanzer vorn, Wuchtschlag gegen alle Nachbarn) mit 2 Ringwächtern (4 von 6, knapp). Freiwillig: Brunnenkammer, 2 Ringwächter. Ab 5/6 Köpfen je ein Gegner mehr.
+- **Lösungsweg:**
+  1. **Wachgang und Wachsaal** (49, 48–72): Beim Betreten des Saals Kampf, aus dem Riss (55, 64) kommt Nachschub. {held} zu Zugbeginn neben dem Riss schließt ihn. Danach schließt er ihn endgültig (20 EP). Die aufgebrochene Rinne erinnert an Lichtenruh.
+  2. **Wärterstube** (39–45, 51–57): Truhe (40, 52) mit drei Heiltränken und 40 Gold, ruhiger Ort zum Rasten. Gegenüber die **Rüstkammer** (Tor 52, 54), zu bis zum Kerbstein (Schritt 6).
+  3. **Kreuzhalle** (42–56, 33–47): Drei Flügel in freier Reihenfolge, je ein Tor mit Zeichen, das bei Berührung zur Seite gleitet. Im Westen der Säulengang zur Zeichenhalle.
+  4. **Hammerhalle** (Osttor 56, 40): Kampf beim Betreten. Vor der Hammerkammer hängt ein Vorhang aus blauem Licht (68–72, 34): hindurch kostet 2W6 LP je Figur in beide Richtungen, oder der **Sperrhebel** oben am Oststeg (78, 44) löscht ihn (über die Treppen 64, 49–50 oder 76, 49–50). In der Kammer der **Hammerhebel** (70, 29): Stärke oder Athletik mit Helfer gegen 35, jeder Fehlschlag (10 Minuten) lockert ihn um 10, nach dem dritten gibt er ohne Wurf nach. Die Hammerplatte leuchtet (30 EP). Truhe (74, 29): 80 Gold, zwei Heiltränke.
+  5. **Archiv der Hüter** (Nordtor 49, 33): Kampf zwischen den Regalen. In der Lesekammer (31–35, 10–15) steht die Bildfolge auf dem Pult. An der **Zeichenwand** (46–52, 3) die Tafeln ziehen: **Bogen, Welle, Kreis** (Bogen 50, 3, Welle 47, 3, Kreis 52, 3). Der erste Fehlgriff ruft einen Archivwächter aus der Nische (Kampf), jeder weitere setzt nur zurück. Die Hausplatte leuchtet (30 EP).
+  6. **Quellgrund** (Schachtblock 48–50, 39–41): Die Südseite (49, 41) berühren, Stufen hinab auf Ebene 1. Freiwillig die **Brunnenkammer** im Norden (Kampf, Truhe mit 60 Gold und dem **Kerbstein**). Beim Betreten des Quellgrunds Kampf auf den Stegen über dem Becken, Riss (51, 55) vom Steg aus schließen (20 EP). **Ostschieber** (67, 58) trocken über den dunklen Kanal, **Westschieber** (31, 58) über den Weststeg, die Lücke im Oststeg geht nur schwimmend. Nach beiden läuft das Becken leer. Am Grund den **Quellstein** (44, 61) berühren: Die Quellplatte leuchtet (30 EP). Treppe hinauf an der Südwand des Schachtraums (47, 44).
+  7. **Rüstkammer** (freiwillig): Mit dem Kerbstein öffnet das schmale Tor, in der Truhe (58, 54) der **Schild der Wache** (einzigartig, Rang 6).
+  8. **Zeichenhalle** (1–17, 34–46): Mit jedem Zeichen leuchtet ein Drittel der Lampen im Säulengang, hinter dem Tor scharrt es lauter. Mit drei hellen Platten tritt beim Betreten der **Torwächter** aus der Wand, zwei Ringwächter aus den Nischen. Sieg: 80 EP, das Zeichentor öffnet (40 EP). Flucht: zurück in den Säulengang (24, 40), er steht wieder in der Wand.
+- **Wahlen und Enden:** Reihenfolge der Flügel frei. Vorhang hindurch oder Sperrhebel. Brunnenkammer und Rüstkammer freiwillig.
+- **Belohnung:** Quest-EP etwa 420, Kampf-EP etwa 1570 je Kopf zu viert, Schild der Wache, Gold und Heiltränke.
+- **Zum Testen:** Entwicklereinstieg »Herzsenke: Kreuzhalle«. Jeder Flügel einzeln, Vorhang beide Wege, Hammerhebel mit schwacher Gruppe, Zeichenwand falsch und richtig, Becken mit einem und mit beiden Schiebern, Rüstkammer mit und ohne Kerbstein, Torwächter mit Flucht. Bilder `-- --herzhammer`, `--herzarchiv`, `--herzquelle`, `--herztor`.
+
 ### Q17b Die gebrochene Galerie und das innere Tor · 🔴 PFLICHT
-- **Auslöser:** Durch das offene Ringtor nach Norden in die Galerie (Ortskarte x 8–10, y 17–31). Der Riss (8, 24) vor dem Seitenbogen ist offen.
+- **Auslöser:** Durch das offene Zeichentor (8–10, 33) nach Norden in die Galerie (Ortskarte x 8–10, y 17–31). Der Riss (8, 24) vor dem Seitenbogen ist offen.
 - **Stufe:** Empfohlen 14+. Großer Scharrer (Stufe 13, 60 LP), 3 Scharrer (Stufe 12, 26 LP), ab 5 Köpfen ein 4. Nachschub aus dem Riss: alle 12 Ticks 2 Scharrer, höchstens 2 Wellen. Balance-Test: Stufe 14, zu viert von vorn 7 von 12, von hinten 9 von 12, allein 0 (die KI schließt den Riss nicht, im Spiel ist es mit der Antwort leichter).
 - **Lösungsweg:**
   1. **Weg A, von vorn:** Galerie nach Norden, beim Schritt auf Zeile 28 beginnt der Kampf.
@@ -1895,17 +1912,17 @@ Die erste Ankunft gibt 20 EP, das Wort **Glasgrund** und einen Text je nach Tage
 
 ### C02 bis C04 Der Fremde und das Herz · 🔴 PFLICHT
 - **Auslöser:** Erster Schritt in die Herzkammer (Zeile 15). Die Kamera wechselt in die Schrägsicht, der Fremde tritt hinter dem Herz hervor vor den Altar, kurzer Redewechsel, Kampf ohne Frage.
-- **Stufe:** Empfohlen 15, fünf Köpfe mit Heiler. Der Fremde (Stufe 15, 210 LP, Rüstung 3, schmale Klinge, Schutzfeld schluckt 50 % von Treffern ab 8 Schaden, bis 60 Punkte verbraucht sind, greift bevorzugt {held} an). Balance-Test (Stufe 15): fünf Figuren 12 von 12, vier mit Heiler 10, vier ohne Heiler 2. Auf Stufe 12 vier mit Heiler nur 2 von 12.
+- **Stufe:** Empfohlen 15, fünf Köpfe mit Heiler. Der Fremde (Stufe 15, 210 LP, Rüstung 3, schmale Klinge, Schutzfeld schluckt 50 % von Treffern ab 8 Schaden, bis 60 Punkte verbraucht sind, greift bevorzugt {held} an, zweimal im Kampf **Erdstampfer**: nach kurzer Vorbereitung 3W6+4 auf alle Nachbarn, also nicht dicht um ihn stehen bleiben). Balance-Test (Stufe 15, seit v0.7.0): fünf Figuren 4 von 6 (im Mittel bleibt ein Viertel der LP), sechs Figuren 6 von 6, vier mit Heiler deutlich seltener. Auf Stufe 12 nur mit Glück.
 - **Lösungsweg:**
   1. **C02 Kampf:** Das Schutzfeld zuerst mit vielen Treffern über 8 Schaden aufbrauchen (Meldung „Das Lichtmuster zerspringt in Funken“). Sieg: Er bleibt liegend am Umgang (3, 10). Flucht durch das innere Tor: der Kampf kommt beim nächsten Betreten wieder. Niederlage ist ein echtes Spielende.
-  2. **C03 Altar** (9, 9) benutzen: **Die Fassung einsetzen.** (sie bleibt im Altar), dann die Zeichen **Bogen mit den drei Kerben**, **Welle**, **Kreis mit dem Punkt** (falsch: von vorn ohne Strafe; **Die Abschrift ansehen.** zeigt die Folge; die gebrochene Linie ist immer falsch), dann **Die Hand auflegen.** Beben, Blitz, das Herz erwacht, der Riss in der Galerie schließt sich, Tageslicht fällt herein. {held}: »Er ist geschlossen.«, höchstens drei Gefährtenzeilen.
+  2. **C03 Altar** (9, 9) benutzen: **Die Fassung einsetzen.** (sie bleibt im Altar), dann steigen die Runen auf und schweben um den Altar (seit HZ5). Die Runen einzeln berühren: **Bogen mit den drei Kerben** (11, 9), **Welle** (7, 9), **Kreis mit dem Punkt** (8, 10). Jede richtige bleibt hell, falsch: alle erlöschen, von vorn ohne Strafe, die gebrochene Linie (10, 10) ist immer falsch. Am Altar zeigt **Die Abschrift ansehen.** die Folge. Mit dem Kreis sinken die Zeichen auf den Altar, dann am Altar **Die Hand auflegen.** Beben, Blitz, das Herz erwacht, der Riss in der Galerie schließt sich, Tageslicht fällt herein. {held}: »Er ist geschlossen.«, höchstens drei Gefährtenzeilen.
   3. **C04:** Auf der Ausgangsreihe zum inneren Tor (9, 15) steht der Fremde wieder auf und stürzt auf {held} zu. Eine Frau tritt aus einem Lichtspalt und öffnet einen Durchgang im inneren Tor (9, 16). Nur dieser Schritt ist frei. Die Frau ansprechen: »Hierher! Schnell!«. Speichern ist hier noch erlaubt.
   4. In den Durchgang treten: Der Fremde trifft die Vorrichtung, alles zerspringt, Weiß, Übergang zur Zukunftsstraße. Alle Gefährten (in der Gruppe und auf der Wartebank) sind von hier an fort.
 - **Wahlen und Enden:** keine echten Wahlen. Altar verlangt alle drei Stücke, sonst bleiben die Runen still.
 - **Belohnung:** Kampf-EP des Fremden 750 (etwa 190 je Kopf zu viert); kein Quest-EP.
 - **Zum Testen:** Vom Tor aus ist der Fremde nicht zu sehen. Gefährtenzeilen in fester Reihenfolge (Korgar, Beric, Tavion, Namar, Odrik, Jaro, Z'zarek, Haldaar), höchstens drei. Flucht und Wiederkehr. Laden in C04. Entwicklermenü „Vor die Herzkammer“ (siehe D01), dann Altar, Fremder und Zukunftsstraße.
 
-### C05 bis C08 Zukunftsstraße und Krankenstation · 🔴 PFLICHT (Ende der spielbaren Probe)
+### C05 bis C08 Zukunftsstraße und Krankenstation · 🔴 PFLICHT (Übergang in Akt II)
 - **Auslöser:** Folgt zwingend auf den Durchgang. Im Schwarz Rufe, dann eine Straße mit Schusswechsel zwischen Sicherheitskräften hinter einer Sperre im Westen und Räubern im Osten. {held} landet allein auf (12, 12), die Frau in einer Mauernische (12, 7).
 - **Stufe:** Unbesiegbar. Fünf Schützen (Stufe 12, 60 LP, Rüstung 8, Lichtwaffe Reichweite 2–14) auf zwei Erkern (Höhe 4) und hinter einem Transporter. Keine Flucht, nur {held}. Balance-Test: 0 Siege in 144 Kämpfen (auch auf Stufe 16), im Mittel 2–3 eigene Züge. Zwei Räuber im Süden sind über eine Lücke bei (17, 13) erreichbar.
 - **Lösungsweg:**
@@ -1913,10 +1930,10 @@ Die erste Ankunft gibt 20 EP, das Wort **Glasgrund** und einen Text je nach Tage
   2. **C07** Spielende-Bildschirm wie echt (Knöpfe reagieren nicht), Störbild, Herzmonitor, »Wir verlieren ihn!«, »Stabilisieren!«, Weiß. Speichern ist gesperrt.
   3. **C08** Erwachen im Med-Bett der Krankenstation. Fester Redewechsel (Jahrhunderte vergangen). Gespräch mit der Frau aus dem Licht über **Gefährten**, **Name** (sie heißt Sera), **Risse**, **Der Fremde**, **Warum**, dann Gehen. Fragt man nicht nach dem Namen, fragt {held} an der Tür selbst.
   4. Die Frau in Weiß: »Ihr dürft aufstehen. Langsam.« Volle LP, Aufgabe „Wo sind die anderen?“.
-  5. Monitor (3, 1), Schränke (8, 1–2), Bett umschauen. Tür (4, 8) benutzen: »Die Tür hat keinen Griff. Sie bleibt geschlossen.« Beim ersten Mal: „Hier endet die Übergangsprobe. Ihr könnt den Raum noch ansehen und Euren Spielstand speichern.“
-- **Wahlen und Enden:** Hier endet das Spielbare von Akt I. Die Gefährten bleiben fort.
+  5. Monitor (3, 1), Schränke (8, 1–2), Bett umschauen. Zur Tür (4, 8) gehen oder sie benutzen: »Die Tür hat keinen Griff. Als {held} davortritt, gleitet sie zur Seite.« Dahinter beginnt Akt II (Klinik von Meridian), weiter in der [Komplettlösung Akt II](Komplettloesung-Akt2.md).
+- **Wahlen und Enden:** Hier endet Akt I. Die Gefährten bleiben vorerst fort, in Akt II holt {held} sie nach und nach zurück.
 - **Belohnung:** keine EP (die Schützen geben keine EP und keine Beute).
-- **Zum Testen:** Rufe, Schüsse, Kampf ohne Frage, Hintergrund-Schusswechsel, Niederlage ohne Meldung direkt zum Spielende-Bild, Speichersperre, Namensfrage an der Tür nur ohne Namen im Gespräch, Stille nach dem Aufstehen, Tür-Ende genau einmal, Spielstand mit getrennter Gruppe. Bilder -- --strasse, -- --station.
+- **Zum Testen:** Rufe, Schüsse, Kampf ohne Frage, Hintergrund-Schusswechsel, Niederlage ohne Meldung direkt zum Spielende-Bild, Speichersperre, Namensfrage an der Tür nur ohne Namen im Gespräch, Stille nach dem Aufstehen, Tür öffnet beim Davortreten, Spielstand mit getrennter Gruppe. Bilder -- --strasse, -- --station.
 
 ### Entwickler-Abkürzung · 🛠️ NUR TESTER-BUILDS
 - **Auslöser:** Spielmenü, Zeile „Entwickler“, „Teleport zu Ortschaft“.
@@ -1927,7 +1944,7 @@ Die erste Ankunft gibt 20 EP, das Wort **Glasgrund** und einen Text je nach Tage
 - F01 erscheint erst mit dem zweiten Relikt, Q16, O12 und W06 erst mit dem dritten. Meret ist nachts nicht ansprechbar. Ohne Q16 bleibt der Abstieg in die Herzsenke verschüttet.
 - Der äußere Ring öffnet sich erst nach Q16 (Merets Karte). Das innere Tor wartet auf alle drei Stücke. Wer die Galerie ohne Antwort räumt, schließt den Riss später mit ihr (20 EP).
 - Q16 vor der Herzsenke erledigen: Die Karte der Leitungen macht den Wartungsgang leicht, und die Rast sammelt die Gefährten.
-- Vor dem Öffnen des inneren Tors speichern und alle Nebenaufgaben von Akt I abschließen: Danach führt der Weg ohne Rückkehr in Akt II, ohne Gefährten.
+- Vor dem Öffnen des inneren Tors speichern und alle Nebenaufgaben von Akt I abschließen: Danach führt der Weg ohne Rückkehr in Akt II, zunächst ohne Gefährten. Wer in Akt I gefallen ist, kann in Akt II zurückkehren, wer die Gruppe für immer verlassen hat, nicht.
 
 ---
 
