@@ -10,7 +10,7 @@
 >
 > **Jetzt auch auf Englisch:** Seit Version 0.4.0 lässt sich das ganze Spiel auf Englisch spielen, die Sprache stellt ihr unter **Optionen → Sprache** um.
 >
-> **Komplettlösung zu Akt I:** Wer festhängt oder alles sehen möchte, findet den ganzen ersten Akt in der **[Komplettlösung](Komplettloesung-Akt1.md)** (Deutsch, mit vollständigen Spoilern, die Übersicht oben ist spoilerarm). *Full walkthrough of Act I, German only for now.*
+> **Komplettlösungen:** Wer festhängt oder alles sehen möchte, findet den ganzen ersten Akt in der **[Komplettlösung Akt I](Komplettloesung-Akt1.md)** und den bisher gebauten Teil von Akt II in der **[Komplettlösung Akt II](Komplettloesung-Akt2.md)** (Deutsch, mit vollständigen Spoilern, die Übersicht oben ist spoilerarm). *Walkthroughs of Act I and the Act II preview, German only for now.*
 
 Jagged Amber Tactics ist ein unabhängiges, nichtkommerzielles RPG-Projekt, inspiriert von drei Spielen, die mich über viele Jahre besonders geprägt haben: **Amberstar, Jagged Alliance und Final Fantasy Tactics**.
 
@@ -20,11 +20,11 @@ Dabei orientiere ich mich bewusst an den Stärken dieser Vorbilder, möchte aber
 
 ## 🎮 Aktueller Entwicklungsstand
 
-**Alpha – der erste Akt ist spielbar**
+**Alpha – der erste Akt ist spielbar, der zweite als Vorabstand**
 
 Jagged Amber Tactics befindet sich mitten in der Entwicklung. Die verfügbaren Versionen sind keine fertigen Spiele, sondern spielbare Zwischenstände.
 
-Seit Version 0.6.0 ist der erste Akt inhaltlich vollständig: Die Hauptgeschichte führt von Mühlbrück bis an sein Ende. Version 0.6.1 bringt die durchgehende Hauptgeschichte „Das Flimmern“, Ausrüstung nach Rängen, Freunde und Rivalen in der Gruppe und eine erste Balance-Runde. Die Feinabstimmung der Kämpfe geht weiter.
+Seit Version 0.6.0 ist der erste Akt inhaltlich vollständig: Die Hauptgeschichte führt von Mühlbrück bis an sein Ende. Version 0.6.1 brachte die durchgehende Hauptgeschichte „Das Flimmern“, Ausrüstung nach Rängen, Freunde und Rivalen in der Gruppe und eine erste Balance-Runde. Seit Version 0.7.0 geht es nach dem Ende von Akt I weiter: Akt II ist als Vorabstand spielbar, bis zum Vorposten vor dem Glasfeld, teils noch mit Platzhaltergrafik. Die Feinabstimmung der Kämpfe geht weiter.
 
 Fehler, unfertige Inhalte und gelegentliche Unstimmigkeiten sind daher zu erwarten.
 
@@ -33,8 +33,9 @@ Fehler, unfertige Inhalte und gelegentliche Unstimmigkeiten sind daher zu erwart
 - Mühlbrück, Dreifurt und Tannried: die drei Orte des Startgebiets der Westmark, mit Leben und Abenteuern gefüllt
 - Die Bergbaustadt Karrfels und der Graufelspfad, die Hafenstadt Brackhafen mit der Glockenwacht, die Hospizstadt Lichtenruh und das Tal Glasgrund mit dem Gnomenweiler
 - Dungeons wie die Orkhöhle, die kalte Esse, das Moorarchiv, die Gruft unter der Kapelle, Tibbes Gänge und die Herzsenke, dazu viele kleinere Gebiete zum Erkunden und Kämpfen
+- In Akt II, Jahrhunderte später: die Stadt Meridian, das Dreifurt-Kreuz, die Karrfels-Werke mit der Tiefsohle, Brackhafen mit dem Pegelarchiv, die Kuppel von Lichtenruh und das Umland dazwischen
 - Belebte Wege zwischen den Orten mit Lagern, Begegnungen und frei umherziehenden Gegnern
-- Rund 50 Aufgaben, von kleinen Begebenheiten bis zur Hauptgeschichte
+- Rund 75 Aufgaben, von kleinen Begebenheiten bis zur Hauptgeschichte
 - 12 rekrutierbare Gefährten aus 8 Völkern
 - 6 Grundklassen sowie 6 Meisterklassen und 15 Komboklassen ab Stufe 10
 
